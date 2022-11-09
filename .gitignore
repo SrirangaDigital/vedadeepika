@@ -1,0 +1,8 @@
+public/data
+public/images/gallery
+public/videos
+public/images/stock/cd-covers
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
+*/*/*/*/.DS_Store

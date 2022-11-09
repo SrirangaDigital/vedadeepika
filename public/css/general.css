@@ -1,0 +1,68 @@
+body{
+	font-family: 'Noto Serif Kannada', 'Open Sans', serif;
+	font-size: 18px;
+}
+
+.text-golden-yellow{
+	color:  #FFA500;
+}
+.text-light-golden-yellow{
+	color:  #F6E8C5;
+}
+
+.circular-gradient{
+	background-color: #570707;
+}
+
+.eng{
+	font-family: 'Open Sans', serif;	
+}
+.eng-bold{
+	font-family: 'Open Sans', serif;	
+	font-weight: 700;
+}
+
+ul.home-page-list li{
+	font-size: 20px;
+	border-bottom: 1px solid red;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+}
+
+a {
+	text-decoration: none;
+	color:  #A52A2A;		
+}
+
+a:HOVER{
+	text-decoration: underline;	
+}
+.homepage-data{
+	font-size: 20px;
+}
+
+#contact{
+	min-height: 80vh;
+}
+
+/*Carousel classes */
+.carousel-inner{
+	height: 400px;
+}
+.carousel-item{
+	height: 100%;
+}
+
+.carousel-dark .carousel-control-prev-icon, .carousel-dark .carousel-control-next-icon  {
+    filter: grayscale(100);
+}
+
+.carousel-dark .carousel-indicators [data-bs-target] {
+    background-color: #FFF;
+}
+
+.carousel-caption {
+	transform: translateY(-50%);
+    bottom: initial;
+    top: 50%;
+}
