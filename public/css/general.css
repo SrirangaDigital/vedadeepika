@@ -36,6 +36,7 @@ a {
 
 a:HOVER{
 	text-decoration: underline;	
+	color:  #A52A2A;
 }
 .homepage-data{
 	font-size: 20px;
